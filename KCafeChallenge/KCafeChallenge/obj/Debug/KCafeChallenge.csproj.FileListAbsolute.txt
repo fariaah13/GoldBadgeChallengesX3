@@ -1,0 +1,12 @@
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafeChallenge\bin\Debug\KCafeChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafeChallenge\bin\Debug\KCafeChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\KCafeChallenge\KCafeChallenge\bin\Debug\KCafeChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\KCafeChallenge\KCafeChallenge\bin\Debug\KCafeChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\KCafeChallenge\KCafeChallenge\obj\Debug\KCafeChallenge.pdb

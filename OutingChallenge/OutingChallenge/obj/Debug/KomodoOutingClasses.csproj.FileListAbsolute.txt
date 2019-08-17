@@ -1,0 +1,6 @@
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingChallenge\bin\Debug\OutingChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingChallenge\bin\Debug\OutingChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingChallenge\obj\Debug\KomodoOutingClasses.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingChallenge\obj\Debug\KomodoOutingClasses.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingChallenge\obj\Debug\OutingChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingChallenge\obj\Debug\OutingChallenge.pdb

@@ -1,0 +1,17 @@
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafe_Console.exe.config
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafe_Console.exe
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafe_Console.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafeChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafe_Test.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafeChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\KCafe_Test.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\obj\Debug\KCafe_Console.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\obj\Debug\KCafe_Console.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\obj\Debug\KCafe_Console.csproj.CopyComplete
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\obj\Debug\KCafe_Console.exe
+C:\Users\Faria\Desktop\DotNetProjects\Projects\KCafeChallenge\KCafe_Console\obj\Debug\KCafe_Console.pdb

@@ -1,0 +1,10 @@
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\obj\Debug\OutingConsole.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\obj\Debug\OutingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\bin\Debug\OutingConsole.exe.config
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\bin\Debug\OutingConsole.exe
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\bin\Debug\OutingConsole.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\bin\Debug\OutingChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\bin\Debug\OutingChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\obj\Debug\OutingConsole.csproj.CopyComplete
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\obj\Debug\OutingConsole.exe
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingConsole\obj\Debug\OutingConsole.pdb

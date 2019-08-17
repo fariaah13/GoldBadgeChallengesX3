@@ -1,0 +1,16 @@
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\OutingTest.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\OutingTest.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\obj\Debug\OutingTest.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\obj\Debug\OutingTest.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\obj\Debug\OutingTest.csproj.CopyComplete
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\obj\Debug\OutingTest.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\obj\Debug\OutingTest.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\OutingChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\OutingChallenge\OutingTest\bin\Debug\OutingChallenge.pdb

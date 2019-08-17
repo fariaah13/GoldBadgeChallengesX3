@@ -1,0 +1,12 @@
+C:\Users\Faria\Desktop\DotNetProjects\Projects\ClaimChallenge\ClaimChallenge\bin\Debug\ClaimChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\ClaimChallenge\ClaimChallenge\bin\Debug\ClaimChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\ClaimChallenge\ClaimChallenge\bin\Debug\ClaimChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\ClaimChallenge\ClaimChallenge\bin\Debug\ClaimChallenge.pdb
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.csprojAssemblyReference.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.dll
+C:\Users\Faria\Desktop\DotNetProjects\Projects\GoldBadgeChallenges\ClaimChallenge\ClaimChallenge\obj\Debug\ClaimChallenge.pdb
